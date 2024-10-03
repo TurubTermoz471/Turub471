@@ -11,8 +11,8 @@ echo
 figlet -f bubble "TERMUX~LOGIN" | lolcat
 date | lolcat
 echo $red"____________________________"
-echo $red"|" $blue" Author: "$green" Mr. Mpx7"
-echo $red"|" $blue" Team  : "$green" FR13NDS DEFACER TEAM "
+echo $red"|" $blue" Author: "$green" Nerf_Engine"
+echo $red"|" $blue" Team  : "$green" BELUT AFRICA "
 echo $red"|___________________________"
 echo $white"{"$yellow"No Recode!!! "$white"}"
 echo $blue"<["$cyan"TAMPILAN SANGAT SEDERHANA"$blue"]>"
