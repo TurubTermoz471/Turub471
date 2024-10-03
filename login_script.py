@@ -14,7 +14,7 @@ td
 ƒd}| |�¡�| d¡�| |¡�| d¡�| |¡�| 
 ¡��tdƒ�tt	d�ƒ�t d¡�tƒ��W�5�Q�R�X�n$tdƒ�ttd�ƒ�t d¡�tƒ��W�n²�tk
 r¬���tdƒ�tdƒ�tdƒ�tdƒ�tdƒ�tdƒ�t d¡�t d¡�Y�nZ�tk
-r���tdƒ�tdƒ�tdƒ�tdƒ�tdƒ�tdƒ�t d¡�t d¡�Y�nX�d�S�)Nú 	 Welcome to Termux ú!---------------------------------ú 	 CREATED BY HTR TECH Ú�ú
+r���tdƒ�tdƒ�tdƒ�tdƒ�tdƒ�tdƒ�t d¡�t d¡�Y�nX�d�S�)Nú 	 Welcome to Termux ú!---------------------------------ú 	 CREATED BY Turub471 Ú�ú
 date | lolcatr���ú&SET USERNAME,PASSWORD AND RECOVERY KEYz[1;96mUsername [1;92m: z[1;96mPassword [1;92m: úEnter a Recovery key [1;92m: úH[+] Remember your recovery key.Without it you can't change username/passú'[1;94mIf you agree hit Enter [1;94m: ÚwÚ
 úDONE ! Initializing ...ç������à?ú     Wrong Inputçš™™™™™Ù?z9[1;91m     UABLE TO SET THE USERNAME, PASSWORD, RECOVERYç333333Ó?úkillall -9 com.termux)ÚclearÚprintÚgreenÚcyanÚyellowr���ÚsystemÚstrÚinputÚblueÚopenr���ÚwriteÚcloseÚtimeÚsleepÚexitÚredr	���Ú	ExceptionÚKeyboardInterrupt©ZusernameZpasswordZrecoveryÚxÚfr
 ���r
